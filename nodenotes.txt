@@ -159,3 +159,14 @@ app.use('/', routes);
 app.listen(3000, () => {
   console.log('Server is running on port 3000');
 });
+NODE.js
+to setting up a server in node.js follow these commands 
+install node.js 
+create a project directory 
+npm init -y for package json
+install express
+create a simple server for a file like app.js and writethe code 
+for setting up a server.
+install nodemorder
+startyouor server using 
+nodemone app.js
