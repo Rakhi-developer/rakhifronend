@@ -164,9 +164,11 @@ to setting up a server in node.js follow these commands
 install node.js 
 create a project directory 
 npm init -y for package json
-install express
-create a simple server for a file like app.js and writethe code 
+install express(a popular web framework for Node.js)
+create a simple server for a file like app.js and write the code 
 for setting up a server.
-install nodemorder
-startyouor server using 
+npm install -g  nodemon
+start you or server using 
 nodemone app.js
+run node.js.
+npx nodemon file name
