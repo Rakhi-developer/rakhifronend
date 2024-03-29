@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*loader  */
+.spinner{
+    height:100vh ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    background-color: rgba(168, 162, 162, 0.237);
+}
+.form-btn{
+    width: 250px  !important;
+    height: 30px;
+    margin-top: 30px !important;
+    background-color: rgba(143, 143, 243, 0.838);
+
+}
